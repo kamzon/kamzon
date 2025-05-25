@@ -34,7 +34,7 @@
 | Repo | What it does | Tech highlights |
 |------|--------------|-----------------|
 | [EncCreditScoring-HE](https://github.com/kamzon/EncCreditScoring-HE) | Scores encrypted German-Credit data in ≈2 s/request—zero plaintext exposure | C++17, CKKS, SEAL, Pyfhel |
-| [LLM-DevOps-Bot](https://github.com/kamzon/LLM-DevOps-Bot) | GPT-4 agent autowrites CI/CD configs, saving ~5 h/week | Python, GitHub Actions |
+| [LLM-DevOps-Bot](https://github.com/kamzon/LLM-DevOps-Bot) | GPT-4 agent autowrites CI/CD configs | Python, GitHub Actions |
 | [Pyfhel PRs](https://github.com/ibarrond/Pyfhel/pulls?q=is%3Apr+author%3Akamzon) | Bug fixes & docs for a popular FHE library | C++, Python |
 
 ## 📈 GitHub Stats
