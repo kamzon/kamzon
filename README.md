@@ -37,11 +37,7 @@
 | [LLM-DevOps-Bot](https://github.com/kamzon/LLM-DevOps-Bot) | GPT-4 agent autowrites CI/CD configs | Python, GitHub Actions |
 | [Pyfhel PRs](https://github.com/ibarrond/Pyfhel/pulls?q=is%3Apr+author%3Akamzon) | Bug fixes & docs for a popular FHE library | C++, Python |
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamzon&show_icons=true" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamzon&layout=compact&hide=css,html" width="350"/>
-</p>
+
 
 ## 🤝 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kamzon-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamzon)
