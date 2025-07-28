@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Noureddine Kamzon 👋</h1>
 <p align="center">
-  AI & Cryptography Engineer • Privacy-Preserving ML • M.Sc. Computational Mathematics
+  AI Engineer • Generative AI & LLM | Cryptography • Privacy-Preserving ML • M.Sc. Computational Mathematics
 </p>
 
 <p align="center">
